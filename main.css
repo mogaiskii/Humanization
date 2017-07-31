@@ -1,0 +1,40 @@
+input{
+    display: block;
+    float: left;
+    clear: right;
+    position: relative;
+    top: 10px;
+}
+
+#JSON_area{
+    min-height: 300px;
+     min-width: 70%;
+     display: block;
+     margin: 15px;
+     max-width: 75%;
+}
+
+
+.property, .var{
+    display: block;
+    margin-top:10px;
+    width: auto;
+    float: left;
+    clear: left;
+    position: static;
+}
+
+.add-button{
+    display: block; 
+    float: none;
+    clear: both;
+}
+
+.cat_block{
+    border-left: solid 1px black;
+    padding: 15px;
+    margin-top: 10px;
+    float: none;
+    clear: both;
+
+}
